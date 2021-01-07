@@ -1,0 +1,21 @@
+/*
+Lista de Aprovados
+==================
+
+1. Ana Silva
+2. Pedro Albuquerque
+3. Guilherme Pereira
+4. Rebecca Franca
+*/
+
+let texto = "Lista de Aprovados";
+texto += "\n1. Ana Silva." 
+texto += '\n2. Pedro Albuquerque.'
+texto += '\n3. Guilherme Pereira.'
+texto += '\n4. Rebecca Franca.'
+// ???
+console.log(texto);
+
+//let texto = 'Bom dia!\nTudo bem?';
+//
+//console.log(texto);
